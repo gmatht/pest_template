@@ -1,0 +1,10 @@
+[package]
+name = "main"
+description = "A Small Example PEST Application"
+version = "2.0.0"
+#license = "MIT/Apache-2.0"
+
+[dependencies]
+pest = { version = "2.0" }
+pest_derive = { version = "2.0" }
+pest_meta = { version = "2.0" }
